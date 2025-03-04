@@ -15,7 +15,7 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "aqua" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "air" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
@@ -105,9 +105,9 @@ author:
   email            : "sooon9254@naver.com"
 
   links: # 사이트 링크
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sooon9254@naver.com"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:sooon9254@naver.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
