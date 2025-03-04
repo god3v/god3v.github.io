@@ -18,11 +18,27 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
+  - title: "Java"
+    url: /categories/java/
+  - title: "Spring"
+    url: /categories/spring/
+  - title: "Database"
+    url: /categories/database/
+  - title: "Infra"
+    url: /categories/infra/
+  - title: "Architecture"
+    url: /categories/architecture/
+  - title: "Computer Science"
+    url: /categories/computer-science/
+  - title: "Database"
+    url: /categories/database/
+  - title: "Web"
+    url: /categories/web/
+  - title: "Issue"
+    url: /categories/issue/
+  - title: "Algorithm"
+    url: /categories/algorithm/
   - title: "TIL"
     url: /categories/til/
+  - title: "etc"
+    url: /categories/etc/
