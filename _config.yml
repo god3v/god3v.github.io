@@ -15,15 +15,15 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "aqua" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "ryeojin devlog" # 상단 헤더에 보이는 블로그 명
+title: "til I'm the dev god" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "god3v" # 블로그 닉네임 설정
-description: "Until I become the god of development" # 블로그 설명
+description: "til I'm the dev god" # 블로그 설명
 url: "https://god3v.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "god3v/god3v.github.io" # GitHub Repo 이름
@@ -101,13 +101,13 @@ author:
   name: "god3v" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  location         : "Seoul, Korea"
+  email            : "sooon9254@naver.com"
 
   links: # 사이트 링크
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:your.name@email.com"
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:sooon9254@naver.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
