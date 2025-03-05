@@ -1,8 +1,7 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi! I'm ryeojin, a backend developer. 👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
