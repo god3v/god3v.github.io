@@ -7,7 +7,7 @@ categories:
 tags:
   - [Rate Limiter, 처리율 제한]
 
-permalink: /til/the-essence-and-necessity-of-software-testing/
+permalink: /til/rate-limiter-design/
 
 toc: true
 # toc_sticky: true
